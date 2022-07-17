@@ -1,4 +1,4 @@
-# AgriPlus
+# Blurry Image Loading
 This is an image-loading website, 11/07/2022
 
 By Kevin Kipkoech
